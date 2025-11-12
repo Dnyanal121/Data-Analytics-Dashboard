@@ -1,0 +1,9 @@
+Flask
+pandas
+dask[dataframe]
+matplotlib
+seaborn
+plotly
+scikit-learn
+xgboost
+joblib
